@@ -1,2 +1,2 @@
-# finger-wallet
-Biometric data based EVM wallet abstraction
+# RFID-wallet
+RFID based EVM wallet abstraction
