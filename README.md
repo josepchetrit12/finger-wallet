@@ -1,2 +1,2 @@
 # RFID-wallet
-RFID based EVM wallet abstraction
+RFID Card based EVM wallet abstraction
