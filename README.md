@@ -12,7 +12,7 @@ In this project we are going to give our first idea about an rfid card as a wall
 - Crypto processor.
 
 <p align="center">
-	<img src="docs/img1.PNG"  height="550">
+	<img src="docs/img1.png"  height="550">
 </p>
 
 ## Process of how to deploy a smart contract wallet:
