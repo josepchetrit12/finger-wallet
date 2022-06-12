@@ -24,7 +24,7 @@ The user's wallet will contain the hash of the password, username, methods (to p
 The factory wallet has to have a mapping to control all implemented wallets and who owns them.
 
 <p align="center">
-	<img src="docs/img3.PNG"  height="550">
+	<img src="docs/img3.png"  height="550">
 </p>
 
 ## Process how to make a payment:
@@ -34,7 +34,7 @@ The factory wallet has to have a mapping to control all implemented wallets and 
 The user needs to connect his card with the hardware, enter the password, the hardware will generate a hash of this password and send it as a transaction to the user's smart contract wallet, if the hash is the same as the one stored in the wallet. smart contract, the wallet can make the payment (if the wallet has sufficient funds).
 
 <p align="center">
-	<img src="docs/img4.PNG"  height="550">
+	<img src="docs/img4.png"  height="550">
 </p>
 
 ## Process how the hardware can send transactions:
