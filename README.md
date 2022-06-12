@@ -20,5 +20,5 @@ RFID Card based EVM wallet abstraction
 
 
 <p align="center">
-	<img src="smart-scontracts.PNG"  height="550">
+	<img src="smart-contracts.PNG"  height="550">
 </p>
